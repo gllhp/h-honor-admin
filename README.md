@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# h-honor-admin
-简单描述
-=======
 <p align="center">
   <img width="120" src="public/img/icons/android-chrome-512x512.png">
 </p>
@@ -239,4 +235,3 @@ See [CONTRIBUTING.md](https://github.com/Armour/vue-typescript-admin-template/bl
 ## License
 
 [MIT License](https://github.com/Armour/vue-typescript-admin-template/blob/master/LICENSE)
->>>>>>> Merge pull request #177 from gzg1023/gzg1023-globalization-feature
